@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "743034370403",
+    "firebase_url": "https://digihotel-78e81.firebaseio.com",
+    "project_id": "digihotel-78e81",
+    "storage_bucket": "digihotel-78e81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743034370403:android:7ab86a19467ea3eb3e7b56",
+        "android_client_info": {
+          "package_name": "com.example.digihotel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743034370403-nvpus2geqo9vvir5id4jeciqiildq2mf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.digihotel",
+            "certificate_hash": "e2d2bd948eef1fdf6c17fb949f264542fd8936bd"
+          }
+        },
+        {
+          "client_id": "743034370403-le0lajtua56dt56c2eqidq4m3vnkklok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyTHOn3i4n8T1IjhoLH_K5l_IneeSEhJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743034370403-le0lajtua56dt56c2eqidq4m3vnkklok.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
